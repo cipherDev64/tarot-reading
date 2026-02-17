@@ -44,7 +44,7 @@ export const Card: React.FC<CardProps> = ({ card, isRevealed, onReveal }) => {
                     <div className="absolute inset-2 rounded-lg overflow-hidden border border-gold/10">
                         {/* Using a placeholder if image fails or for dev */}
                         <img
-                            src={`${import.meta.env.BASE_URL}cards/${card.img}`}
+                            src={`/cards/${card.img}`}
                             alt={card.name}
                             className="w-full h-full object-cover"
                             onError={(e) => {

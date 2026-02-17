@@ -1,67 +1,355 @@
 {
     "cards": [
         {
+            "name": "Death",
+            "number": "13",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m13.jpg",
+            "fortune_telling": [
+                "Secrets of Death revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Death",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Death. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Death. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Judgement",
+            "number": "20",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m20.jpg",
+            "fortune_telling": [
+                "Secrets of Judgement revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Judgement",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Judgement. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Judgement. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Justice",
+            "number": "11",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m11.jpg",
+            "fortune_telling": [
+                "Secrets of Justice revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Justice",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Justice. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Justice. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Strength",
+            "number": "8",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m08.jpg",
+            "fortune_telling": [
+                "Secrets of Strength revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Strength",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Strength. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Strength. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Temperance",
+            "number": "14",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m14.jpg",
+            "fortune_telling": [
+                "Secrets of Temperance revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Temperance",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Temperance. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Temperance. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Chariot",
+            "number": "7",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m07.jpg",
+            "fortune_telling": [
+                "Secrets of The Chariot revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Chariot. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Chariot. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Devil",
+            "number": "15",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m15.jpg",
+            "fortune_telling": [
+                "Secrets of The Devil revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Devil. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Devil. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Emperor",
+            "number": "4",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m04.jpg",
+            "fortune_telling": [
+                "Secrets of The Emperor revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Emperor. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Emperor. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Empress",
+            "number": "3",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m03.jpg",
+            "fortune_telling": [
+                "Secrets of The Empress revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Empress. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Empress. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
             "name": "The Fool",
             "number": "0",
             "arcana": "Major Arcana",
             "suit": "Trump",
             "img": "m00.jpg",
             "fortune_telling": [
-                "Watch for new projects and new beginnings",
-                "Prepare to take a risk",
-                "Something new comes your way; go for it"
+                "Secrets of The Fool revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
             ],
             "keywords": [
-                "freedom",
-                "faith",
-                "inexperience",
-                "innocence"
+                "The",
+                "Destiny",
+                "Energy"
             ],
             "meanings": {
                 "light": [
-                    "Freeing yourself from limitation",
-                    "Expressing joy and youthful vigor",
-                    "Being open-minded",
-                    "Taking a leap of faith"
+                    "Positive aspects of The Fool. Clarity and purpose."
                 ],
                 "shadow": [
-                    "Being gullible and naive",
-                    "Taking unnecessary risks",
-                    "Failing to be serious when required",
-                    "Being foolish or silly"
+                    "Challenges of The Fool. Be wary of illusions."
                 ]
-            }
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
         },
         {
-            "name": "The Magician",
-            "number": "1",
+            "name": "The Hanged Man",
+            "number": "12",
             "arcana": "Major Arcana",
             "suit": "Trump",
-            "img": "m01.jpg",
+            "img": "m12.jpg",
             "fortune_telling": [
-                "A powerful man may play a role in your day",
-                "Your current situation must be seen as one element of a much larger plan",
-                "Do not be afraid to act"
+                "Secrets of The Hanged Man revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
             ],
             "keywords": [
-                "capability",
-                "empowerment",
-                "activity"
+                "The",
+                "Destiny",
+                "Energy"
             ],
             "meanings": {
                 "light": [
-                    "Taking appropriate action",
-                    "Receiving guidance from a higher power",
-                    "Becoming a channel of divine will",
-                    "Expressing your unique talents and abilities"
+                    "Positive aspects of The Hanged Man. Clarity and purpose."
                 ],
                 "shadow": [
-                    "Inflating your own importance",
-                    "Deceiving others",
-                    "Misusing your talents",
-                    "Refusing to share what you have with others"
+                    "Challenges of The Hanged Man. Be wary of illusions."
                 ]
-            }
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Hermit",
+            "number": "9",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m09.jpg",
+            "fortune_telling": [
+                "Secrets of The Hermit revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Hermit. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Hermit. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Hierophant",
+            "number": "5",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m05.jpg",
+            "fortune_telling": [
+                "Secrets of The Hierophant revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Hierophant. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Hierophant. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
         },
         {
             "name": "The High Priestess",
@@ -70,30 +358,1753 @@
             "suit": "Trump",
             "img": "m02.jpg",
             "fortune_telling": [
-                "A mysterious woman arrives",
-                "A secret is revealed",
-                "Someone knows more than they are saying"
+                "Secrets of The High Priestess revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
             ],
             "keywords": [
-                "intuition",
-                "reflection",
-                "purity",
-                "initiation"
+                "The",
+                "Destiny",
+                "Energy"
             ],
             "meanings": {
                 "light": [
-                    "Listening to your inner voice",
-                    "Reflecting on the deeper meaning of things",
-                    "Understanding the feminine mysteries",
-                    "Keeping secrets"
+                    "Positive aspects of The High Priestess. Clarity and purpose."
                 ],
                 "shadow": [
-                    "Being too passive",
-                    "Keeping too many secrets",
-                    "Failing to trust your intuition",
-                    "Ignoring your dreams"
+                    "Challenges of The High Priestess. Be wary of illusions."
                 ]
-            }
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Lovers",
+            "number": "6",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m06.jpg",
+            "fortune_telling": [
+                "Secrets of The Lovers revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Lovers. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Lovers. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Magician",
+            "number": "1",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m01.jpg",
+            "fortune_telling": [
+                "Secrets of The Magician revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Magician. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Magician. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Moon",
+            "number": "18",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m18.jpg",
+            "fortune_telling": [
+                "Secrets of The Moon revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Moon. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Moon. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Star",
+            "number": "17",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m17.jpg",
+            "fortune_telling": [
+                "Secrets of The Star revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Star. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Star. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Sun",
+            "number": "19",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m19.jpg",
+            "fortune_telling": [
+                "Secrets of The Sun revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Sun. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Sun. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The Tower",
+            "number": "16",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m16.jpg",
+            "fortune_telling": [
+                "Secrets of The Tower revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The Tower. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The Tower. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "The World",
+            "number": "21",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m21.jpg",
+            "fortune_telling": [
+                "Secrets of The World revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "The",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of The World. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of The World. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Wheel of Fortune",
+            "number": "10",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m10.jpg",
+            "fortune_telling": [
+                "Secrets of Wheel of Fortune revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Wheel",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Wheel of Fortune. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Wheel of Fortune. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Ace of Cups",
+            "number": "01",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c01.jpg",
+            "fortune_telling": [
+                "Secrets of Ace of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Ace",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Ace of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Ace of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Ace of Pentacles",
+            "number": "01",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p01.jpg",
+            "fortune_telling": [
+                "Secrets of Ace of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Ace",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Ace of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Ace of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Ace of Swords",
+            "number": "01",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s01.jpg",
+            "fortune_telling": [
+                "Secrets of Ace of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Ace",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Ace of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Ace of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Ace of Wands",
+            "number": "01",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w01.jpg",
+            "fortune_telling": [
+                "Secrets of Ace of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Ace",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Ace of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Ace of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Eight of Cups",
+            "number": "08",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c08.jpg",
+            "fortune_telling": [
+                "Secrets of Eight of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Eight",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Eight of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Eight of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Eight of Pentacles",
+            "number": "08",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p08.jpg",
+            "fortune_telling": [
+                "Secrets of Eight of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Eight",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Eight of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Eight of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Eight of Swords",
+            "number": "08",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s08.jpg",
+            "fortune_telling": [
+                "Secrets of Eight of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Eight",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Eight of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Eight of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Eight of Wands",
+            "number": "08",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w08.jpg",
+            "fortune_telling": [
+                "Secrets of Eight of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Eight",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Eight of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Eight of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Five of Cups",
+            "number": "05",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c05.jpg",
+            "fortune_telling": [
+                "Secrets of Five of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Five",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Five of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Five of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Five of Pentacles",
+            "number": "05",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p05.jpg",
+            "fortune_telling": [
+                "Secrets of Five of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Five",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Five of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Five of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Five of Swords",
+            "number": "05",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s05.jpg",
+            "fortune_telling": [
+                "Secrets of Five of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Five",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Five of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Five of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Five of Wands",
+            "number": "05",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w05.jpg",
+            "fortune_telling": [
+                "Secrets of Five of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Five",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Five of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Five of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Four of Cups",
+            "number": "04",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c04.jpg",
+            "fortune_telling": [
+                "Secrets of Four of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Four",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Four of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Four of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Four of Pentacles",
+            "number": "04",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p04.jpg",
+            "fortune_telling": [
+                "Secrets of Four of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Four",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Four of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Four of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Four of Swords",
+            "number": "04",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s04.jpg",
+            "fortune_telling": [
+                "Secrets of Four of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Four",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Four of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Four of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Four of Wands",
+            "number": "04",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w04.jpg",
+            "fortune_telling": [
+                "Secrets of Four of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Four",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Four of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Four of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "King of Cups",
+            "number": "14",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c14.jpg",
+            "fortune_telling": [
+                "Secrets of King of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "King",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of King of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of King of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "King of Pentacles",
+            "number": "14",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p14.jpg",
+            "fortune_telling": [
+                "Secrets of King of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "King",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of King of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of King of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "King of Swords",
+            "number": "14",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s14.jpg",
+            "fortune_telling": [
+                "Secrets of King of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "King",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of King of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of King of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "King of Wands",
+            "number": "14",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w14.jpg",
+            "fortune_telling": [
+                "Secrets of King of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "King",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of King of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of King of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Knight of Cups",
+            "number": "12",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c12.jpg",
+            "fortune_telling": [
+                "Secrets of Knight of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Knight",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Knight of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Knight of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Knight of Pentacles",
+            "number": "12",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p12.jpg",
+            "fortune_telling": [
+                "Secrets of Knight of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Knight",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Knight of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Knight of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Knight of Swords",
+            "number": "12",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s12.jpg",
+            "fortune_telling": [
+                "Secrets of Knight of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Knight",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Knight of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Knight of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Knight of Wands",
+            "number": "12",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w12.jpg",
+            "fortune_telling": [
+                "Secrets of Knight of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Knight",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Knight of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Knight of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Nine of Cups",
+            "number": "09",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c09.jpg",
+            "fortune_telling": [
+                "Secrets of Nine of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Nine",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Nine of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Nine of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Nine of Pentacles",
+            "number": "09",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p09.jpg",
+            "fortune_telling": [
+                "Secrets of Nine of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Nine",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Nine of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Nine of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Nine of Swords",
+            "number": "09",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s09.jpg",
+            "fortune_telling": [
+                "Secrets of Nine of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Nine",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Nine of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Nine of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Nine of Wands",
+            "number": "09",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w09.jpg",
+            "fortune_telling": [
+                "Secrets of Nine of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Nine",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Nine of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Nine of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Page of Cups",
+            "number": "11",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c11.jpg",
+            "fortune_telling": [
+                "Secrets of Page of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Page",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Page of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Page of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Page of Pentacles",
+            "number": "11",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p11.jpg",
+            "fortune_telling": [
+                "Secrets of Page of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Page",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Page of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Page of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Page of Swords",
+            "number": "11",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s11.jpg",
+            "fortune_telling": [
+                "Secrets of Page of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Page",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Page of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Page of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Page of Wands",
+            "number": "11",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w11.jpg",
+            "fortune_telling": [
+                "Secrets of Page of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Page",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Page of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Page of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Queen of Cups",
+            "number": "13",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c13.jpg",
+            "fortune_telling": [
+                "Secrets of Queen of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Queen",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Queen of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Queen of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Queen of Pentacles",
+            "number": "13",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p13.jpg",
+            "fortune_telling": [
+                "Secrets of Queen of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Queen",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Queen of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Queen of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Queen of Swords",
+            "number": "13",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s13.jpg",
+            "fortune_telling": [
+                "Secrets of Queen of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Queen",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Queen of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Queen of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Queen of Wands",
+            "number": "13",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w13.jpg",
+            "fortune_telling": [
+                "Secrets of Queen of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Queen",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Queen of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Queen of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Seven of Cups",
+            "number": "07",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c07.jpg",
+            "fortune_telling": [
+                "Secrets of Seven of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Seven",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Seven of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Seven of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Seven of Pentacles",
+            "number": "07",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p07.jpg",
+            "fortune_telling": [
+                "Secrets of Seven of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Seven",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Seven of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Seven of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Seven of Swords",
+            "number": "07",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s07.jpg",
+            "fortune_telling": [
+                "Secrets of Seven of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Seven",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Seven of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Seven of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Seven of Wands",
+            "number": "07",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w07.jpg",
+            "fortune_telling": [
+                "Secrets of Seven of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Seven",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Seven of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Seven of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Six of Cups",
+            "number": "06",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c06.jpg",
+            "fortune_telling": [
+                "Secrets of Six of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Six",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Six of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Six of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Six of Pentacles",
+            "number": "06",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p06.jpg",
+            "fortune_telling": [
+                "Secrets of Six of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Six",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Six of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Six of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Six of Swords",
+            "number": "06",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s06.jpg",
+            "fortune_telling": [
+                "Secrets of Six of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Six",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Six of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Six of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Six of Wands",
+            "number": "06",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w06.jpg",
+            "fortune_telling": [
+                "Secrets of Six of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Six",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Six of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Six of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Ten of Cups",
+            "number": "10",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c10.jpg",
+            "fortune_telling": [
+                "Secrets of Ten of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Ten",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Ten of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Ten of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Ten of Pentacles",
+            "number": "10",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p10.jpg",
+            "fortune_telling": [
+                "Secrets of Ten of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Ten",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Ten of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Ten of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Ten of Swords",
+            "number": "10",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s10.jpg",
+            "fortune_telling": [
+                "Secrets of Ten of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Ten",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Ten of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Ten of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Ten of Wands",
+            "number": "10",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w10.jpg",
+            "fortune_telling": [
+                "Secrets of Ten of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Ten",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Ten of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Ten of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Three of Cups",
+            "number": "03",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c03.jpg",
+            "fortune_telling": [
+                "Secrets of Three of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Three",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Three of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Three of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Three of Pentacles",
+            "number": "03",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p03.jpg",
+            "fortune_telling": [
+                "Secrets of Three of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Three",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Three of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Three of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Three of Swords",
+            "number": "03",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s03.jpg",
+            "fortune_telling": [
+                "Secrets of Three of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Three",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Three of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Three of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Three of Wands",
+            "number": "03",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w03.jpg",
+            "fortune_telling": [
+                "Secrets of Three of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Three",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Three of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Three of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Two of Cups",
+            "number": "02",
+            "arcana": "Minor Arcana",
+            "suit": "Cups",
+            "img": "c02.jpg",
+            "fortune_telling": [
+                "Secrets of Two of Cups revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Two",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Two of Cups. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Two of Cups. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Two of Pentacles",
+            "number": "02",
+            "arcana": "Minor Arcana",
+            "suit": "Pentacles",
+            "img": "p02.jpg",
+            "fortune_telling": [
+                "Secrets of Two of Pentacles revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Two",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Two of Pentacles. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Two of Pentacles. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Two of Swords",
+            "number": "02",
+            "arcana": "Minor Arcana",
+            "suit": "Swords",
+            "img": "s02.jpg",
+            "fortune_telling": [
+                "Secrets of Two of Swords revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Two",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Two of Swords. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Two of Swords. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
+        },
+        {
+            "name": "Two of Wands",
+            "number": "02",
+            "arcana": "Minor Arcana",
+            "suit": "Wands",
+            "img": "w02.jpg",
+            "fortune_telling": [
+                "Secrets of Two of Wands revealed.",
+                "Trust your intuition.",
+                "A new path opens before you."
+            ],
+            "keywords": [
+                "Two",
+                "Destiny",
+                "Energy"
+            ],
+            "meanings": {
+                "light": [
+                    "Positive aspects of Two of Wands. Clarity and purpose."
+                ],
+                "shadow": [
+                    "Challenges of Two of Wands. Be wary of illusions."
+                ]
+            },
+            "Archetype": " The seeker",
+            "Affirmation": "I trust the universe."
         }
     ]
 }
