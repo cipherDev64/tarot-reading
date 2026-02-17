@@ -1,15 +1,18 @@
 import { motion } from 'framer-motion';
 import { TarotCard } from '../../types';
 import { Sparkles } from 'lucide-react';
+import { getCardImage } from '../../utils/imageLoader';
 
 interface CardProps {
     card: TarotCard;
     isRevealed: boolean;
     onReveal: () => void;
-    index: number;
+    index?: number;
 }
 
 export const Card: React.FC<CardProps> = ({ card, isRevealed, onReveal }) => {
+    const imageSrc = getCardImage(card.img);
+
     return (
         <div className="relative w-64 h-96 perspective-1000 cursor-pointer group" onClick={!isRevealed ? onReveal : undefined}>
             <motion.div
@@ -42,17 +45,24 @@ export const Card: React.FC<CardProps> = ({ card, isRevealed, onReveal }) => {
                 >
                     {/* Image */}
                     <div className="absolute inset-2 rounded-lg overflow-hidden border border-gold/10">
-                        {/* Using a placeholder if image fails or for dev */}
-                        <img
-                            src={`/cards/${card.img}`}
-                            alt={card.name}
-                            className="w-full h-full object-cover"
-                            onError={(e) => {
-                                console.error(`Failed to load image: ${import.meta.env.BASE_URL}cards/${card.img}`);
-                                (e.target as HTMLImageElement).style.display = 'none';
-                                (e.target as HTMLImageElement).parentElement!.style.background = 'linear-gradient(45deg, #1a1a2e, #3a3a5e)';
-                            }}
-                        />
+                        {/* Using image loader */}
+                        {imageSrc ? (
+                            <img
+                                src={imageSrc}
+                                alt={card.name}
+                                className="w-full h-full object-cover"
+                                onError={(e) => {
+                                    console.error(`Failed to load image: ${imageSrc}`);
+                                    (e.target as HTMLImageElement).style.display = 'none';
+                                    (e.target as HTMLImageElement).parentElement!.style.background = 'linear-gradient(45deg, #1a1a2e, #3a3a5e)';
+                                }}
+                            />
+                        ) : (
+                            <div className="w-full h-full bg-red-900/50 flex items-center justify-center">
+                                <span className="text-white text-xs">Image Not Found: {card.img}</span>
+                            </div>
+                        )}
+
                         {/* Fallback text if image missing (visible through transparent bg if img hidden) */}
                         <div className="absolute inset-0 flex items-center justify-center text-center p-4 z-[-1]">
                             <span className="text-gold font-heading">{card.name}</span>
