@@ -9,14 +9,23 @@ export const useTarotDeck = () => {
     const [deck, setDeck] = useState<TarotCard[]>(tarotData.cards);
     const [reading, setReading] = useState<TarotCard[]>([]);
 
+    // Fisher-Yates Shuffle for better randomness
+    const fisherYatesShuffle = (array: TarotCard[]) => {
+        const shuffled = [...array];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+    };
+
     const shuffleDeck = useCallback(() => {
-        const shuffled = [...tarotData.cards].sort(() => Math.random() - 0.5);
+        const shuffled = fisherYatesShuffle(tarotData.cards);
         setDeck(shuffled);
     }, []);
 
     const drawThree = useCallback(() => {
-        // Shuffle fresh from the source data to ensure randomness every time
-        const shuffled = [...tarotData.cards].sort(() => Math.random() - 0.5);
+        const shuffled = fisherYatesShuffle(tarotData.cards);
         const drawn = shuffled.slice(0, 3);
         setReading(drawn);
     }, []);

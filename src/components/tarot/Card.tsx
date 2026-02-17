@@ -44,11 +44,11 @@ export const Card: React.FC<CardProps> = ({ card, isRevealed, onReveal }) => {
                     <div className="absolute inset-2 rounded-lg overflow-hidden border border-gold/10">
                         {/* Using a placeholder if image fails or for dev */}
                         <img
-                            src={`/cards/${card.img}`}
+                            src={`${import.meta.env.BASE_URL}cards/${card.img}`}
                             alt={card.name}
                             className="w-full h-full object-cover"
                             onError={(e) => {
-                                // Fallback to a placeholder gradient or color if image missing
+                                console.error(`Failed to load image: ${import.meta.env.BASE_URL}cards/${card.img}`);
                                 (e.target as HTMLImageElement).style.display = 'none';
                                 (e.target as HTMLImageElement).parentElement!.style.background = 'linear-gradient(45deg, #1a1a2e, #3a3a5e)';
                             }}
