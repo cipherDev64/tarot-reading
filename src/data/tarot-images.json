@@ -1,0 +1,99 @@
+{
+    "cards": [
+        {
+            "name": "The Fool",
+            "number": "0",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m00.jpg",
+            "fortune_telling": [
+                "Watch for new projects and new beginnings",
+                "Prepare to take a risk",
+                "Something new comes your way; go for it"
+            ],
+            "keywords": [
+                "freedom",
+                "faith",
+                "inexperience",
+                "innocence"
+            ],
+            "meanings": {
+                "light": [
+                    "Freeing yourself from limitation",
+                    "Expressing joy and youthful vigor",
+                    "Being open-minded",
+                    "Taking a leap of faith"
+                ],
+                "shadow": [
+                    "Being gullible and naive",
+                    "Taking unnecessary risks",
+                    "Failing to be serious when required",
+                    "Being foolish or silly"
+                ]
+            }
+        },
+        {
+            "name": "The Magician",
+            "number": "1",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m01.jpg",
+            "fortune_telling": [
+                "A powerful man may play a role in your day",
+                "Your current situation must be seen as one element of a much larger plan",
+                "Do not be afraid to act"
+            ],
+            "keywords": [
+                "capability",
+                "empowerment",
+                "activity"
+            ],
+            "meanings": {
+                "light": [
+                    "Taking appropriate action",
+                    "Receiving guidance from a higher power",
+                    "Becoming a channel of divine will",
+                    "Expressing your unique talents and abilities"
+                ],
+                "shadow": [
+                    "Inflating your own importance",
+                    "Deceiving others",
+                    "Misusing your talents",
+                    "Refusing to share what you have with others"
+                ]
+            }
+        },
+        {
+            "name": "The High Priestess",
+            "number": "2",
+            "arcana": "Major Arcana",
+            "suit": "Trump",
+            "img": "m02.jpg",
+            "fortune_telling": [
+                "A mysterious woman arrives",
+                "A secret is revealed",
+                "Someone knows more than they are saying"
+            ],
+            "keywords": [
+                "intuition",
+                "reflection",
+                "purity",
+                "initiation"
+            ],
+            "meanings": {
+                "light": [
+                    "Listening to your inner voice",
+                    "Reflecting on the deeper meaning of things",
+                    "Understanding the feminine mysteries",
+                    "Keeping secrets"
+                ],
+                "shadow": [
+                    "Being too passive",
+                    "Keeping too many secrets",
+                    "Failing to trust your intuition",
+                    "Ignoring your dreams"
+                ]
+            }
+        }
+    ]
+}
