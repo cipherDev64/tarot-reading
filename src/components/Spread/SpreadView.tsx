@@ -11,12 +11,12 @@ interface SpreadViewProps {
 
 export function SpreadView({ cardImages, onReshuffle }: SpreadViewProps) {
     const [selectedIndex, setSelectedIndex] = useState<number | null>(null);
-    const [dateIdea, setDateIdea] = useState<DateIdea | null>(null);
+    const [dateIdeas, setDateIdeas] = useState<DateIdea[]>([]);
     const [isRevealed, setIsRevealed] = useState(false);
 
     useEffect(() => {
-        // Generate the specific date idea for this spread on mount
-        setDateIdea(getRandomDateIdeas(1)[0]);
+        // Generate a specific date idea for EACH of the 6 cards on mount
+        setDateIdeas(getRandomDateIdeas(6));
     }, []);
 
     const handleCardClick = (index: number) => {
@@ -88,7 +88,7 @@ export function SpreadView({ cardImages, onReshuffle }: SpreadViewProps) {
 
                 {/* The Reveal Component */}
                 <AnimatePresence>
-                    {isRevealed && selectedIndex !== null && dateIdea && (
+                    {isRevealed && selectedIndex !== null && dateIdeas[selectedIndex] && (
                         <motion.div
                             initial={{ opacity: 0, height: 0, filter: 'blur(10px)' }}
                             animate={{ opacity: 1, height: 'auto', filter: 'blur(0px)' }}
@@ -96,7 +96,7 @@ export function SpreadView({ cardImages, onReshuffle }: SpreadViewProps) {
                             transition={{ duration: 1, ease: "easeOut" }}
                             className="mt-12 sm:mt-20 w-full flex justify-center pb-24"
                         >
-                            <DateReveal idea={dateIdea} onReshuffle={onReshuffle} />
+                            <DateReveal idea={dateIdeas[selectedIndex]} onReshuffle={onReshuffle} />
                         </motion.div>
                     )}
                 </AnimatePresence>

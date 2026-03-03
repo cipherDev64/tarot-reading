@@ -63,7 +63,7 @@ export function TarotCard({
                     <img
                         src={imageSrc}
                         alt="Tarot Card Destiny"
-                        className="w-full h-full object-cover"
+                        className="w-full h-full object-contain"
                     />
                     {/* Subtle overlay for realism */}
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent pointer-events-none mix-blend-multiply"></div>
