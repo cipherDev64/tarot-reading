@@ -1,5 +1,6 @@
 // Eagerly import all images from the assets folder
 const images = import.meta.glob('../assets/cards/*.jpg', { eager: true, import: 'default' });
+console.log('Available image keys:', Object.keys(images));
 
 export const getCardImage = (filename: string): string | undefined => {
     // Construct the lookup key. 

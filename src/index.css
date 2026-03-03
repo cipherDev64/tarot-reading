@@ -1,25 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Almendra:ital,wght@0,400;0,700;1,400;1,700&family=Cinzel+Decorative:wght@400;700;900&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
-  body {
-    @apply bg-celestial-gradient text-white min-h-screen font-body overflow-x-hidden;
+  :root {
+    --background: 224 71% 4%;
+    --foreground: 213 31% 91%;
+    --accent: 43 74% 66%;
   }
-  
-  h1, h2, h3, h4, h5, h6 {
-    @apply font-heading text-shadow-glow;
+
+  body {
+    @apply bg-background text-foreground bg-gradient-to-br from-[#050B14] via-[#0D1321] to-[#1A1F2C] min-h-screen antialiased selection:bg-amber-500/30 m-0 overflow-x-hidden;
   }
 }
 
-@layer utilities {
-  .text-shadow-glow {
-    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
-  }
-  
-  .glass-panel {
-    @apply bg-white/5 backdrop-blur-md border border-white/10 rounded-xl shadow-glass;
-  }
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+}
+
+/* Base typography setup for serif headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Playfair Display', serif;
 }
